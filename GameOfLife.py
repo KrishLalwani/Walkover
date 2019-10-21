@@ -78,6 +78,7 @@ class Life:
 
     # Function to find Final Stable Grid
     def Find_Stable_Grid(self):
+        self.Compute_Next_Generation()
         # Checking if every element of the grid became stable
         while self.Check_Stable() == False:
             # Continue to Compute next generation
