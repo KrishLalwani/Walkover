@@ -45,8 +45,8 @@ Do you want random initialization of grid?
 0 0 0 
 
 Final Colony:
-0 0 0 
-0 0 0 
+1 1 0 
+1 1 0 
 0 0 0 
 ``` 
 
